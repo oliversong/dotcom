@@ -1,0 +1,12 @@
+body {
+  background-color: #F9F9F9;
+  font-family: Helvetica;
+  font-size: 16px;
+  display: flex;
+}
+.InProgress {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
